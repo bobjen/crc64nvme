@@ -67,8 +67,6 @@ Our Rust is within 6% of the original C++ reference at large sizes.
 
 Use this to verify your port gives correct results.
 
-It's fast and useful. You should give it a try.
-
 ---
 
 **Test Platform:** AMD Ryzen 7 5825U
