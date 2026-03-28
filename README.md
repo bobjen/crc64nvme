@@ -1,1 +1,1 @@
-C++ and Rust implementations for Intel and AMD of CRC64-nvme, the 64-bit cyclic redundancy check. Timed at 10GB/sec singlethreaded for large inputs. It makes an effort to be fast for small inputs too. It uses SSE intrinsics.
+C++ and Rust implementations for Intel and AMD of CRC64-nvme, the 64-bit cyclic redundancy check. Timed at 16GB/sec singlethreaded for large inputs. It makes an effort to be fast for small inputs too. It uses SSE intrinsics.
